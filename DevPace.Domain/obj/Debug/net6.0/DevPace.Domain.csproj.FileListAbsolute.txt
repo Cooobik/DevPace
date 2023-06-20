@@ -1,0 +1,12 @@
+C:\Data_D\DevPace\DevPace.Domain\bin\Debug\net6.0\DevPace.Domain.deps.json
+C:\Data_D\DevPace\DevPace.Domain\bin\Debug\net6.0\DevPace.Domain.dll
+C:\Data_D\DevPace\DevPace.Domain\bin\Debug\net6.0\DevPace.Domain.pdb
+C:\Data_D\DevPace\DevPace.Domain\obj\Debug\net6.0\DevPace.Domain.csproj.AssemblyReference.cache
+C:\Data_D\DevPace\DevPace.Domain\obj\Debug\net6.0\DevPace.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data_D\DevPace\DevPace.Domain\obj\Debug\net6.0\DevPace.Domain.AssemblyInfoInputs.cache
+C:\Data_D\DevPace\DevPace.Domain\obj\Debug\net6.0\DevPace.Domain.AssemblyInfo.cs
+C:\Data_D\DevPace\DevPace.Domain\obj\Debug\net6.0\DevPace.Domain.csproj.CoreCompileInputs.cache
+C:\Data_D\DevPace\DevPace.Domain\obj\Debug\net6.0\DevPace.Domain.dll
+C:\Data_D\DevPace\DevPace.Domain\obj\Debug\net6.0\refint\DevPace.Domain.dll
+C:\Data_D\DevPace\DevPace.Domain\obj\Debug\net6.0\DevPace.Domain.pdb
+C:\Data_D\DevPace\DevPace.Domain\obj\Debug\net6.0\ref\DevPace.Domain.dll

@@ -1,0 +1,17 @@
+C:\Data_D\DevPace\DevPace.Infrastructure\bin\Debug\net6.0\DevPace.Infrastructure.deps.json
+C:\Data_D\DevPace\DevPace.Infrastructure\bin\Debug\net6.0\DevPace.Infrastructure.runtimeconfig.json
+C:\Data_D\DevPace\DevPace.Infrastructure\bin\Debug\net6.0\DevPace.Infrastructure.dll
+C:\Data_D\DevPace\DevPace.Infrastructure\bin\Debug\net6.0\DevPace.Infrastructure.pdb
+C:\Data_D\DevPace\DevPace.Infrastructure\bin\Debug\net6.0\DevPace.Domain.dll
+C:\Data_D\DevPace\DevPace.Infrastructure\bin\Debug\net6.0\DevPace.Domain.pdb
+C:\Data_D\DevPace\DevPace.Infrastructure\obj\Debug\net6.0\DevPace.Infrastructure.csproj.AssemblyReference.cache
+C:\Data_D\DevPace\DevPace.Infrastructure\obj\Debug\net6.0\DevPace.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data_D\DevPace\DevPace.Infrastructure\obj\Debug\net6.0\DevPace.Infrastructure.AssemblyInfoInputs.cache
+C:\Data_D\DevPace\DevPace.Infrastructure\obj\Debug\net6.0\DevPace.Infrastructure.AssemblyInfo.cs
+C:\Data_D\DevPace\DevPace.Infrastructure\obj\Debug\net6.0\DevPace.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Data_D\DevPace\DevPace.Infrastructure\obj\Debug\net6.0\DevPace.Infrastructure.csproj.CopyComplete
+C:\Data_D\DevPace\DevPace.Infrastructure\obj\Debug\net6.0\DevPace.Infrastructure.dll
+C:\Data_D\DevPace\DevPace.Infrastructure\obj\Debug\net6.0\refint\DevPace.Infrastructure.dll
+C:\Data_D\DevPace\DevPace.Infrastructure\obj\Debug\net6.0\DevPace.Infrastructure.pdb
+C:\Data_D\DevPace\DevPace.Infrastructure\obj\Debug\net6.0\DevPace.Infrastructure.genruntimeconfig.cache
+C:\Data_D\DevPace\DevPace.Infrastructure\obj\Debug\net6.0\ref\DevPace.Infrastructure.dll
